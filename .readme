@@ -1,0 +1,11 @@
+program contains  Queue and Stack files
+
+QUEUE HAS METHODS:
+Enqueue:(takes a pointer to the queue and the value being pushed into the queue as parameters). it pushes an element to the queue
+Dequeue: this method only takes a pointer to the queue as parameters. it removes the first element in the queue.
+displayQ: this method takes a queue struct variable as parameter and prints the queue.
+
+STACK HAS METHODS:
+push:(takes a  pointer to the stack and the value being pushed as parameters) pushes an element to the stack.
+pop: (takes a pointer to the stack) removes the last element of the stack
+display: (takes a pointer to the stack) prints the stack.
